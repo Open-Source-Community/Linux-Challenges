@@ -6,4 +6,4 @@
 ./Kill-ME.out
 ```
 
-- Challenge By: [Mina Saad](https://github.com/)
+- Challenge By: [Mina Saad](https://github.com/MinaSaad47)
